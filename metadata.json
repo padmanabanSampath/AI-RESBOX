@@ -1,0 +1,5 @@
+{
+  "name": "Project-NBH: AI Word Puzzle",
+  "description": "An interactive word puzzle game where users draw their answers. The AI generates a word, and the user must represent its meaning in four boxes by drawing letters or images. The app uses AI to interpret the drawings and verify the solution.",
+  "requestFramePermissions": []
+}
